@@ -1,0 +1,419 @@
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (4:4,2 ts:0) 
+Queue0:
+Waiting period: 2
+[(3:3,2 ts:0)]
+
+Queue1:
+Waiting period: 2
+[(2:3,2 ts:0)]
+
+Queue2:
+Waiting period: 3
+[(1:3,3 ts:0)]
+
+
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (4:4,2 ts:0) 
+Queue0:
+Waiting period: 2
+[(3:3,2 ts:0)]
+
+Queue1:
+Waiting period: 2
+[(2:3,2 ts:0)]
+
+Queue2:
+Waiting period: 3
+[(1:3,3 ts:0)]
+
+Waiting List: 
+Queue0:
+Waiting period: 3
+[(3:3,1 ts:1), (4:4,2 ts:0)]
+
+Queue1:
+Waiting period: 1
+[(2:3,1 ts:1)]
+
+Queue2:
+Waiting period: 2
+[(1:3,2 ts:1)]
+
+
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (4:4,2 ts:0) 
+Queue0:
+Waiting period: 2
+[(3:3,2 ts:0)]
+
+Queue1:
+Waiting period: 2
+[(2:3,2 ts:0)]
+
+Queue2:
+Waiting period: 3
+[(1:3,3 ts:0)]
+
+Waiting List: 
+Queue0:
+Waiting period: 3
+[(3:3,1 ts:1), (4:4,2 ts:0)]
+
+Queue1:
+Waiting period: 1
+[(2:3,1 ts:1)]
+
+Queue2:
+Waiting period: 2
+[(1:3,2 ts:1)]
+
+Waiting List: 
+Queue0:
+Waiting period: 2
+[(4:4,2 ts:1)]
+
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 1
+[(1:3,1 ts:2)]
+
+
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (4:4,2 ts:0) 
+Queue0:
+Waiting period: 2
+[(3:3,2 ts:0)]
+
+Queue1:
+Waiting period: 2
+[(2:3,2 ts:0)]
+
+Queue2:
+Waiting period: 3
+[(1:3,3 ts:0)]
+
+Waiting List: 
+Queue0:
+Waiting period: 3
+[(3:3,1 ts:1), (4:4,2 ts:0)]
+
+Queue1:
+Waiting period: 1
+[(2:3,1 ts:1)]
+
+Queue2:
+Waiting period: 2
+[(1:3,2 ts:1)]
+
+Waiting List: 
+Queue0:
+Waiting period: 2
+[(4:4,2 ts:1)]
+
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 1
+[(1:3,1 ts:2)]
+
+Waiting List: 
+Queue0:
+Waiting period: 1
+[(4:4,1 ts:2)]
+
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 0
+[(1:3,1 ts:3)]
+
+
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (4:4,2 ts:0) 
+Queue0:
+Waiting period: 2
+[(3:3,2 ts:0)]
+
+Queue1:
+Waiting period: 2
+[(2:3,2 ts:0)]
+
+Queue2:
+Waiting period: 3
+[(1:3,3 ts:0)]
+
+Waiting List: 
+Queue0:
+Waiting period: 3
+[(3:3,1 ts:1), (4:4,2 ts:0)]
+
+Queue1:
+Waiting period: 1
+[(2:3,1 ts:1)]
+
+Queue2:
+Waiting period: 2
+[(1:3,2 ts:1)]
+
+Waiting List: 
+Queue0:
+Waiting period: 2
+[(4:4,2 ts:1)]
+
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 1
+[(1:3,1 ts:2)]
+
+Waiting List: 
+Queue0:
+Waiting period: 1
+[(4:4,1 ts:2)]
+
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 0
+[(1:3,1 ts:3)]
+
+Waiting List: 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 0
+[(1:3,1 ts:4)]
+
+
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (4:4,2 ts:0) 
+Queue0:
+Waiting period: 2
+[(3:3,2 ts:0)]
+
+Queue1:
+Waiting period: 2
+[(2:3,2 ts:0)]
+
+Queue2:
+Waiting period: 3
+[(1:3,3 ts:0)]
+
+Waiting List: 
+Queue0:
+Waiting period: 3
+[(3:3,1 ts:1), (4:4,2 ts:0)]
+
+Queue1:
+Waiting period: 1
+[(2:3,1 ts:1)]
+
+Queue2:
+Waiting period: 2
+[(1:3,2 ts:1)]
+
+Waiting List: 
+Queue0:
+Waiting period: 2
+[(4:4,2 ts:1)]
+
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 1
+[(1:3,1 ts:2)]
+
+Waiting List: 
+Queue0:
+Waiting period: 1
+[(4:4,1 ts:2)]
+
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 0
+[(1:3,1 ts:3)]
+
+Waiting List: 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 0
+[(1:3,1 ts:4)]
+
+Waiting List: 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 0
+[(1:3,1 ts:5)]
+
+
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (1:3,3 ts:0) (2:3,2 ts:0) (3:3,2 ts:0) (4:4,2 ts:0) 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:Closed -- 0
+Waiting List: (4:4,2 ts:0) 
+Queue0:
+Waiting period: 2
+[(3:3,2 ts:0)]
+
+Queue1:
+Waiting period: 2
+[(2:3,2 ts:0)]
+
+Queue2:
+Waiting period: 3
+[(1:3,3 ts:0)]
+
+Waiting List: 
+Queue0:
+Waiting period: 3
+[(3:3,1 ts:1), (4:4,2 ts:0)]
+
+Queue1:
+Waiting period: 1
+[(2:3,1 ts:1)]
+
+Queue2:
+Waiting period: 2
+[(1:3,2 ts:1)]
+
+Waiting List: 
+Queue0:
+Waiting period: 2
+[(4:4,2 ts:1)]
+
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 1
+[(1:3,1 ts:2)]
+
+Waiting List: 
+Queue0:
+Waiting period: 1
+[(4:4,1 ts:2)]
+
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 0
+[(1:3,1 ts:3)]
+
+Waiting List: 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 0
+[(1:3,1 ts:4)]
+
+Waiting List: 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 0
+[(1:3,1 ts:5)]
+
+Waiting List: 
+Queue0:Closed -- 0
+Queue1:Closed -- 0
+Queue2:
+Waiting period: 0
+[(1:3,1 ts:6)]
+
+

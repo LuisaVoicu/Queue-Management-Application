@@ -1,0 +1,10 @@
+com\business\logic\SelectionPolicy.class
+com\model\Server.class
+com\GUI\SimulationFrame.class
+com\business\logic\SimulationManager.class
+com\GUI\View.class
+com\business\logic\Scheduler.class
+com\business\logic\ConcreteStrategyQueue.class
+com\business\logic\Strategy.class
+com\business\logic\ConcreteStrategyTime.class
+com\model\Task.class
